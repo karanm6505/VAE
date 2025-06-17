@@ -61,4 +61,3 @@ The VAE is defined in `model.py` and consists of:
 Generated images, such as samples from the latent space or reconstructions of input data, can be found in the `generated_images/` directory.
 
 ---
-*This README was last updated on 17 June 2025.*
